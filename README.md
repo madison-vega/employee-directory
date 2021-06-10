@@ -13,7 +13,7 @@ This React application was created to streamline the process for employers to lo
 - [Questions](#questions)
 
 ## Installation
-This will be a live deployed application, simply follow the link to the live site and enjoy!
+This will be a live deployed application, simply follow the link to the live site and enjoy!<br>
 [Live Website]()<br>
 [Github Repo](https://github.com/madison-vega/employee-directory)
 
