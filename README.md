@@ -14,14 +14,12 @@ This React application was created to streamline the process for employers to lo
 
 ## Installation
 This will be a live deployed application, simply follow the link to the live site and enjoy!
+[Live Website]()<br>
+[Github Repo](https://github.com/madison-vega/employee-directory)
 
 
 ## Usage
 When the application loads you will be able to view a list of employees, sort them by clicking the headers, as well as filter by typing their name and relevant results will populate.
-
-
-## Credits
-
 
 
 ## License
