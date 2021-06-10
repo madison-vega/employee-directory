@@ -5,3 +5,11 @@
 // save data in state 
 // component did mount/or hooks
 // use map function to iterate over state array
+
+import axios from "axios";
+
+export default {
+  getEmployees: function() {
+    return axios.get('https://randomuser.me/api/')
+  }
+};
