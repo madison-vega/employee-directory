@@ -1,6 +1,8 @@
-# hw19-employee
+# employee-directory
 
 ## Description
+This React application was created to streamline the process for employers to locate employees non-sensitive information in one place and be able to sort or filter them.  It is important to practice my React skills with components as well.
+
 
 ## Table of Contents
 
@@ -11,10 +13,12 @@
 - [Questions](#questions)
 
 ## Installation
+This will be a live deployed application, simply follow the link to the live site and enjoy!
 
 
 ## Usage
- 
+When the application loads you will be able to view a list of employees, sort them by clicking the headers, as well as filter by typing their name and relevant results will populate.
+
 
 ## Credits
 
