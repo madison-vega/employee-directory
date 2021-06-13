@@ -6,10 +6,14 @@
 // component did mount/or hooks
 // use map function to iterate over state array
 
+
+
 import axios from "axios";
+
+const url = 'https://randomuser.me/api/?results=20'
 
 export default {
   getEmployees: function() {
-    return axios.get('https://randomuser.me/api/')
+    return axios.get(url)
   }
 };
